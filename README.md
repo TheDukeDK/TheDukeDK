@@ -9,7 +9,7 @@ I am a software professional and have been in the industry for over twenty years
   - Containers & Kubernetes
   - Platforms and Developer experience
 
-- :computer:
+- :computer: Some stuff ...
   - Linux is my preferred OS
   - I can get by in ...
     - C, Java/Groovy, Bash, Powershell(If I have to), Python
