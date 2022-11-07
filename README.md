@@ -16,4 +16,4 @@ I am a software professional and have been in the industry for over twenty years
 
 - 📫 How to reach me: ...
   - :bird: [Twitter](https://twitter.com/TimothyHarris2) (for now at least)
-  - :elephant: [Mastodon](<a rel="me" href="https://noc.social/@TheDukeDK">Mastodon</a>)
+  - :elephant: <a rel="me" href="https://noc.social/@TheDukeDK">Mastodon</a>
