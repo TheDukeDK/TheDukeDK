@@ -1,3 +1,5 @@
+<a rel="me" href="https://noc.social/@TheDukeDK">Mastodon</a>
+
 ### Hi there 👋
 
 My real name is Timothy Harris.
@@ -16,4 +18,4 @@ I am a software professional and have been in the industry for over twenty years
 
 - 📫 How to reach me: ...
   - :bird: [Twitter](https://twitter.com/TimothyHarris2) (for now at least)
-  - :elephant: [Mastodon](https://noc.social/web/@TheDukeDK) <a rel="me" href="https://noc.social/@TheDukeDK">Mastodon</a>
+  - :elephant: [Mastodon](https://noc.social/web/@TheDukeDK)
